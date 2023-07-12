@@ -209,6 +209,7 @@
           for(let i = 0; i < cc.length -4; i++) result+="#";
           return result + cc.substring(cc.length - 4, cc.length)
         }     
-
+https://www.codewars.com/users/LongWayyy/completed -ссылка на профиль  codewars
 <h2 align="center">Вывод</h2>
+
 В этой лабораторной работе я научился работать с селекторами CSS.
